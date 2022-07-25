@@ -1,0 +1,14 @@
+{
+  "name": "GMail",
+  "description": "GMail app for SmartDisplayPi",
+  "version": 1,
+  "icon": "gmail.png",
+  "developer": "The Fake Slim Shady",
+  "license": "MIT",
+  "homepage": null,
+  "git": null,
+  "app": {
+    "type": "WEBSITE",
+    "source": "https://mail.google.com/mail/u/0/#inbox"
+  }
+}
