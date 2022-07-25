@@ -1,0 +1,14 @@
+{
+  "name": "OutLook",
+  "description": "OutLook app for SmartDisplayPi",
+  "version": 1,
+  "icon": "outlook.png",
+  "developer": "The Fake Slim Shady",
+  "license": "MIT",
+  "homepage": null,
+  "git": null,
+  "app": {
+    "type": "WEBSITE",
+    "source": "https://outlook.live.com/mail/0/"
+  }
+}
