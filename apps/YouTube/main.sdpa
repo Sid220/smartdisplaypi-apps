@@ -1,0 +1,14 @@
+{
+  "name": "YouTube",
+  "description": "YouTube app for SmartDisplayPi",
+  "version": 1,
+  "icon": "youtube.png",
+  "developer": "The Fake Slim Shady",
+  "license": "MIT",
+  "homepage": null,
+  "git": null,
+  "app": {
+    "type": "WEBSITE",
+    "source": "https://m.youtube.com/"
+  }
+}
