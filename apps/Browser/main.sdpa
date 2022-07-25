@@ -1,0 +1,14 @@
+{
+  "name": "Browser",
+  "description": "The default browser of SmartDisplayPi",
+  "version": 1,
+  "icon": "ie.png",
+  "developer": "The Fake Slim Shady",
+  "license": "MIT",
+  "homepage": null,
+  "git": null,
+  "app": {
+    "type": "LOCAL_HTML",
+    "source": "browser.html"
+  }
+}
